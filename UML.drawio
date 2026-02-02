@@ -106,7 +106,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IC96I-bf9FvJFJ6MrB5R" name="GAB">
-    <mxGraphModel dx="1796" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,7 +232,7 @@
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rechargeur de distributeur" vertex="1">
           <mxGeometry height="60" width="38" x="90" y="1363" as="geometry" />
         </mxCell>
-        <mxCell id="xwK2BKeJxCnqdt1g4ZR2-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Recharger distributeur" vertex="1">
+        <mxCell id="xwK2BKeJxCnqdt1g4ZR2-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="recharger le distributeur" vertex="1">
           <mxGeometry height="40" width="130" x="355" y="1275" as="geometry" />
         </mxCell>
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-13" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;">
@@ -245,8 +245,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="izwA2DorLuJ_O2WT5Xhe-7" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" target="izwA2DorLuJ_O2WT5Xhe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="izwA2DorLuJ_O2WT5Xhe-8" connectable="0" parent="izwA2DorLuJ_O2WT5Xhe-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="«include»" vertex="1">
+          <mxGeometry relative="1" x="-0.2851" y="-6" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Consulter solde" vertex="1">
-          <mxGeometry height="40" width="115" x="365" y="1055" as="geometry" />
+          <mxGeometry height="40" width="115" x="283" y="1066" as="geometry" />
         </mxCell>
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-16" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" target="xwK2BKeJxCnqdt1g4ZR2-26">
           <mxGeometry relative="1" as="geometry" />
@@ -256,8 +264,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="izwA2DorLuJ_O2WT5Xhe-5" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" target="izwA2DorLuJ_O2WT5Xhe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="izwA2DorLuJ_O2WT5Xhe-6" connectable="0" parent="izwA2DorLuJ_O2WT5Xhe-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="«include»" vertex="1">
+          <mxGeometry relative="1" x="0.2345" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Retirer argent" vertex="1">
-          <mxGeometry height="33" width="120" x="360" y="1000" as="geometry" />
+          <mxGeometry height="33" width="120" x="283" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-19" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;">
           <mxGeometry relative="1" as="geometry">
@@ -270,10 +286,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Deposer comptant" vertex="1">
-          <mxGeometry height="44" width="120" x="360" y="1110" as="geometry" />
+          <mxGeometry height="44" width="120" x="273" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Déposer chèque" vertex="1">
-          <mxGeometry height="39" width="120" x="363" y="1170" as="geometry" />
+          <mxGeometry height="39" width="120" x="278" y="1180.5" as="geometry" />
         </mxCell>
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Récupérer carte avalée" vertex="1">
           <mxGeometry height="33" width="120" x="363" y="1330" as="geometry" />
@@ -293,13 +309,27 @@
           <mxGeometry height="89.5" width="89.5" x="719" y="976.5" as="geometry" />
         </mxCell>
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-27" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Système&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;d&#39;information&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;banque&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="724" y="1129" as="geometry" />
+          <mxGeometry height="80" width="80" x="740" y="1139.5" as="geometry" />
+        </mxCell>
+        <mxCell id="izwA2DorLuJ_O2WT5Xhe-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Authentification" vertex="1">
+          <mxGeometry height="20" width="120" x="483" y="956.5" as="geometry" />
+        </mxCell>
+        <mxCell id="izwA2DorLuJ_O2WT5Xhe-9" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.635;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="izwA2DorLuJ_O2WT5Xhe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="izwA2DorLuJ_O2WT5Xhe-10" connectable="0" parent="izwA2DorLuJ_O2WT5Xhe-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="«include»" vertex="1">
+          <mxGeometry relative="1" x="0.1896" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izwA2DorLuJ_O2WT5Xhe-11" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" value="Deposer chèque n&#39;est pas necessaire car il joue le même rôle que pour comptant" vertex="1">
+          <mxGeometry height="110" width="110" x="69" y="1590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="wLxIv7EnSKhQQSyRdriA" name="GAB - Zangbeto">
-    <mxGraphModel dx="1411" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -319,9 +349,6 @@
         </mxCell>
         <mxCell id="hyaNUaOhLSxHW7ZVuNd_-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Porte de carte de&amp;nbsp;&lt;div&gt;crédit de notre banque&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="30" x="420" y="620" as="geometry" />
-        </mxCell>
-        <mxCell id="AqlIRs0rUR-Qb_GTwSOK-1" edge="1" parent="1" source="hyaNUaOhLSxHW7ZVuNd_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="hyaNUaOhLSxHW7ZVuNd_-16">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hyaNUaOhLSxHW7ZVuNd_-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Retrait d&#39;argent" vertex="1">
           <mxGeometry height="80" width="120" x="610" y="210" as="geometry" />
@@ -364,13 +391,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hyaNUaOhLSxHW7ZVuNd_-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sys. Auto" vertex="1">
-          <mxGeometry height="60" width="120" x="1110" y="300" as="geometry" />
+          <mxGeometry height="60" width="120" x="1060" y="470" as="geometry" />
         </mxCell>
         <mxCell id="k4yp-tz_7UADoJPWC4up-2" edge="1" parent="1" source="hyaNUaOhLSxHW7ZVuNd_-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="hyaNUaOhLSxHW7ZVuNd_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hyaNUaOhLSxHW7ZVuNd_-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SI" vertex="1">
-          <mxGeometry height="60" width="120" x="1090" y="180" as="geometry" />
+          <mxGeometry height="60" width="120" x="1070" y="280" as="geometry" />
         </mxCell>
         <mxCell id="hyaNUaOhLSxHW7ZVuNd_-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Consulter solde" vertex="1">
           <mxGeometry height="80" width="120" x="670" y="310" as="geometry" />
