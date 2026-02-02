@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.6" pages="2">
   <diagram name="Page-1" id="EEeoFWf_UH2GKV1mVEKw">
-    <mxGraphModel dx="946" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IC96I-bf9FvJFJ6MrB5R" name="GAB">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,31 +202,31 @@
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-1" parent="1" style="html=1;whiteSpace=wrap;verticalAlign=top;" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Analyse bancaire&lt;/span&gt;&#xa;&#xa;" vertex="1">
           <mxGeometry height="520" width="380" x="230" y="940" as="geometry" />
         </mxCell>
-        <mxCell id="xwK2BKeJxCnqdt1g4ZR2-2" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="xwK2BKeJxCnqdt1g4ZR2-18">
+        <mxCell id="xwK2BKeJxCnqdt1g4ZR2-2" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="xwK2BKeJxCnqdt1g4ZR2-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Porteur de carte de crédit&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="30" x="90" y="1020" as="geometry" />
         </mxCell>
-        <mxCell id="xwK2BKeJxCnqdt1g4ZR2-4" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="xwK2BKeJxCnqdt1g4ZR2-15">
+        <mxCell id="xwK2BKeJxCnqdt1g4ZR2-4" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="xwK2BKeJxCnqdt1g4ZR2-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-5" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xwK2BKeJxCnqdt1g4ZR2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xwK2BKeJxCnqdt1g4ZR2-6" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="xwK2BKeJxCnqdt1g4ZR2-21">
+        <mxCell id="xwK2BKeJxCnqdt1g4ZR2-6" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="xwK2BKeJxCnqdt1g4ZR2-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xwK2BKeJxCnqdt1g4ZR2-7" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="xwK2BKeJxCnqdt1g4ZR2-22">
+        <mxCell id="xwK2BKeJxCnqdt1g4ZR2-7" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="xwK2BKeJxCnqdt1g4ZR2-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Client porteur de carte de crédit" vertex="1">
           <mxGeometry height="60" width="30" x="90" y="1250" as="geometry" />
         </mxCell>
-        <mxCell id="xwK2BKeJxCnqdt1g4ZR2-9" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xwK2BKeJxCnqdt1g4ZR2-12">
+        <mxCell id="xwK2BKeJxCnqdt1g4ZR2-9" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="xwK2BKeJxCnqdt1g4ZR2-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xwK2BKeJxCnqdt1g4ZR2-10" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="xwK2BKeJxCnqdt1g4ZR2-23">
+        <mxCell id="xwK2BKeJxCnqdt1g4ZR2-10" edge="1" parent="1" source="xwK2BKeJxCnqdt1g4ZR2-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="xwK2BKeJxCnqdt1g4ZR2-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xwK2BKeJxCnqdt1g4ZR2-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rechargeur de distributeur" vertex="1">
