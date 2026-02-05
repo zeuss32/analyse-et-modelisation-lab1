@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FHLa1O4W7PpljGG_UnOR-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="employé&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="30" x="130" y="200" as="geometry" />
+          <mxGeometry height="60" width="30" x="120" y="220" as="geometry" />
         </mxCell>
         <mxCell id="FHLa1O4W7PpljGG_UnOR-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="secrétaire&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="30" x="130" y="370" as="geometry" />
@@ -16,11 +16,11 @@
         <mxCell id="FHLa1O4W7PpljGG_UnOR-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Administrateur" vertex="1">
           <mxGeometry height="60" width="30" x="730" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="FHLa1O4W7PpljGG_UnOR-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Service de facturation" vertex="1">
-          <mxGeometry height="60" width="30" x="720" y="465" as="geometry" />
-        </mxCell>
         <mxCell id="FHLa1O4W7PpljGG_UnOR-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="425" width="425" x="230" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FHLa1O4W7PpljGG_UnOR-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Service de facturation" vertex="1">
+          <mxGeometry height="60" width="30" x="720" y="465" as="geometry" />
         </mxCell>
         <mxCell id="FHLa1O4W7PpljGG_UnOR-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gérer activités&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="120" x="280" y="220" as="geometry" />
@@ -39,6 +39,24 @@
         </mxCell>
         <mxCell id="FHLa1O4W7PpljGG_UnOR-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Exporter activités&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="120" x="500" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="FHLa1O4W7PpljGG_UnOR-16" edge="1" parent="1" source="FHLa1O4W7PpljGG_UnOR-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="FHLa1O4W7PpljGG_UnOR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHLa1O4W7PpljGG_UnOR-18" edge="1" parent="1" source="FHLa1O4W7PpljGG_UnOR-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.217;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="FHLa1O4W7PpljGG_UnOR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHLa1O4W7PpljGG_UnOR-17" edge="1" parent="1" source="FHLa1O4W7PpljGG_UnOR-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="FHLa1O4W7PpljGG_UnOR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHLa1O4W7PpljGG_UnOR-19" edge="1" parent="1" source="FHLa1O4W7PpljGG_UnOR-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="FHLa1O4W7PpljGG_UnOR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHLa1O4W7PpljGG_UnOR-21" edge="1" parent="1" source="FHLa1O4W7PpljGG_UnOR-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="FHLa1O4W7PpljGG_UnOR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHLa1O4W7PpljGG_UnOR-20" edge="1" parent="1" source="FHLa1O4W7PpljGG_UnOR-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="FHLa1O4W7PpljGG_UnOR-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
