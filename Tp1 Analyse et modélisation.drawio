@@ -23,22 +23,25 @@
           <mxGeometry height="60" width="30" x="720" y="465" as="geometry" />
         </mxCell>
         <mxCell id="FHLa1O4W7PpljGG_UnOR-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gérer activités&amp;nbsp;" vertex="1">
-          <mxGeometry height="80" width="120" x="280" y="220" as="geometry" />
+          <mxGeometry height="60" width="120" x="280" y="220" as="geometry" />
         </mxCell>
         <mxCell id="FHLa1O4W7PpljGG_UnOR-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gérer frais" vertex="1">
-          <mxGeometry height="80" width="120" x="280" y="310" as="geometry" />
+          <mxGeometry height="60" width="120" x="280" y="290" as="geometry" />
         </mxCell>
         <mxCell id="FHLa1O4W7PpljGG_UnOR-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Relancer activités" vertex="1">
-          <mxGeometry height="80" width="120" x="280" y="400" as="geometry" />
+          <mxGeometry height="50" width="110" x="285" y="370" as="geometry" />
         </mxCell>
         <mxCell id="FHLa1O4W7PpljGG_UnOR-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Consulter tableau de bord" vertex="1">
-          <mxGeometry height="80" width="120" x="280" y="500" as="geometry" />
+          <mxGeometry height="60" width="120" x="285" y="430" as="geometry" />
         </mxCell>
         <mxCell id="FHLa1O4W7PpljGG_UnOR-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Créer Compte" vertex="1">
           <mxGeometry height="80" width="120" x="490" y="230" as="geometry" />
         </mxCell>
+        <mxCell id="FHLa1O4W7PpljGG_UnOR-35" edge="1" parent="1" source="FHLa1O4W7PpljGG_UnOR-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="FHLa1O4W7PpljGG_UnOR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FHLa1O4W7PpljGG_UnOR-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Exporter activités&amp;nbsp;" vertex="1">
-          <mxGeometry height="80" width="120" x="500" y="470" as="geometry" />
+          <mxGeometry height="80" width="120" x="320" y="545" as="geometry" />
         </mxCell>
         <mxCell id="FHLa1O4W7PpljGG_UnOR-16" edge="1" parent="1" source="FHLa1O4W7PpljGG_UnOR-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="FHLa1O4W7PpljGG_UnOR-10">
           <mxGeometry relative="1" as="geometry" />
@@ -70,19 +73,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FHLa1O4W7PpljGG_UnOR-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="S&#39;Authentifier" vertex="1">
-          <mxGeometry height="80" width="120" x="450" y="360" as="geometry" />
+          <mxGeometry height="80" width="120" x="450" y="310" as="geometry" />
         </mxCell>
         <mxCell id="FHLa1O4W7PpljGG_UnOR-23" edge="1" parent="1" source="FHLa1O4W7PpljGG_UnOR-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="FHLa1O4W7PpljGG_UnOR-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FHLa1O4W7PpljGG_UnOR-25" edge="1" parent="1" source="FHLa1O4W7PpljGG_UnOR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="FHLa1O4W7PpljGG_UnOR-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="145" y="490" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="FHLa1O4W7PpljGG_UnOR-25" edge="1" parent="1" source="FHLa1O4W7PpljGG_UnOR-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="FHLa1O4W7PpljGG_UnOR-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FHLa1O4W7PpljGG_UnOR-26" edge="1" parent="1" style="endArrow=open;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.925;exitY=0.713;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;entryX=0.925;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;" target="FHLa1O4W7PpljGG_UnOR-10" value="">
+        <mxCell id="FHLa1O4W7PpljGG_UnOR-26" edge="1" parent="1" source="FHLa1O4W7PpljGG_UnOR-24" style="endArrow=open;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.367;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;entryX=0.925;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;" target="FHLa1O4W7PpljGG_UnOR-10" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="490" y="360" as="sourcePoint" />
             <mxPoint x="440" y="410" as="targetPoint" />
