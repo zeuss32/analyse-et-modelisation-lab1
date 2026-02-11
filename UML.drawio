@@ -619,7 +619,7 @@
         <mxCell id="yk1U5SPc-8dajI_Xgi8N-40" edge="1" parent="1" source="yk1U5SPc-8dajI_Xgi8N-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="yk1U5SPc-8dajI_Xgi8N-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yk1U5SPc-8dajI_Xgi8N-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="effectuer commande" vertex="1">
+        <mxCell id="yk1U5SPc-8dajI_Xgi8N-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Effectuer commande" vertex="1">
           <mxGeometry height="30" width="100" x="320" y="860" as="geometry" />
         </mxCell>
         <mxCell id="yk1U5SPc-8dajI_Xgi8N-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1..N" vertex="1">
