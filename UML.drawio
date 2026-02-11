@@ -554,11 +554,6 @@
             <mxPoint x="230" y="635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yk1U5SPc-8dajI_Xgi8N-11" connectable="0" parent="yk1U5SPc-8dajI_Xgi8N-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Possède" vertex="1">
-          <mxGeometry relative="1" x="0.0707" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yk1U5SPc-8dajI_Xgi8N-20" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Livres" vertex="1">
           <mxGeometry height="86" width="160" x="530" y="590" as="geometry" />
         </mxCell>
