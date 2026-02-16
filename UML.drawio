@@ -697,8 +697,10 @@
         <mxCell id="q6D-SEdBkMOvbwQNTmzU-25" parent="q6D-SEdBkMOvbwQNTmzU-22" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ method(type): type" vertex="1">
           <mxGeometry height="26" width="160" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="chpyrzqTfG12kM-znxxk-6" edge="1" parent="1" source="q6D-SEdBkMOvbwQNTmzU-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamond;endFill=0;" target="yk1U5SPc-8dajI_Xgi8N-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="chpyrzqTfG12kM-znxxk-6" edge="1" parent="1" source="q6D-SEdBkMOvbwQNTmzU-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=diamond;endFill=0;endSize=13;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="629" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
