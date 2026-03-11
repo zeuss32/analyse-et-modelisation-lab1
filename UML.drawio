@@ -907,11 +907,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YnNdY5NDDPzNVjOqtsrC" name="Gerer son panier">
-    <mxGraphModel dx="632" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="519" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="H9d-rfzPRCMkHca3ZFJP-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+        <mxCell id="H9d-rfzPRCMkHca3ZFJP-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Internaut" vertex="1">
           <mxGeometry height="60" width="30" x="70" y="390" as="geometry" />
         </mxCell>
         <mxCell id="bWBQyhWQqzymIYwDYeXc-1" parent="1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" value="&amp;lt;&amp;lt;dialogue&amp;gt;&amp;gt;" vertex="1">
