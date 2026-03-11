@@ -907,7 +907,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YnNdY5NDDPzNVjOqtsrC" name="Gerer son panier">
-    <mxGraphModel dx="519" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="606" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -915,7 +915,7 @@
           <mxGeometry height="60" width="30" x="70" y="390" as="geometry" />
         </mxCell>
         <mxCell id="bWBQyhWQqzymIYwDYeXc-1" parent="1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" value="&amp;lt;&amp;lt;dialogue&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry height="183" width="140" x="200" y="350" as="geometry" />
+          <mxGeometry height="200" width="140" x="200" y="350" as="geometry" />
         </mxCell>
         <mxCell id="bWBQyhWQqzymIYwDYeXc-2" parent="bWBQyhWQqzymIYwDYeXc-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" value="attributes" vertex="1">
           <mxGeometry height="20" width="140" y="55" as="geometry" />
@@ -935,8 +935,8 @@
         <mxCell id="bWBQyhWQqzymIYwDYeXc-7" parent="bWBQyhWQqzymIYwDYeXc-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" value="operations" vertex="1">
           <mxGeometry height="20" width="140" y="143" as="geometry" />
         </mxCell>
-        <mxCell id="bWBQyhWQqzymIYwDYeXc-8" parent="bWBQyhWQqzymIYwDYeXc-1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" value="+Supprimer" vertex="1">
-          <mxGeometry height="20" width="140" y="163" as="geometry" />
+        <mxCell id="bWBQyhWQqzymIYwDYeXc-8" parent="bWBQyhWQqzymIYwDYeXc-1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" value="+Supprimer&lt;div&gt;+AfficherPanier&lt;/div&gt;" vertex="1">
+          <mxGeometry height="37" width="140" y="163" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
