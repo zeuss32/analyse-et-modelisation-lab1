@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="kNBu60QWVTA-MQpfpCuT">
-    <mxGraphModel dx="3616" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="374" dy="194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
         <mxCell id="NW_pGQWg40x3ocs26hJp-41" edge="1" parent="1" source="NW_pGQWg40x3ocs26hJp-15" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#a20025;strokeColor=#6F0000;" target="NW_pGQWg40x3ocs26hJp-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NW_pGQWg40x3ocs26hJp-58" edge="1" parent="1" source="NW_pGQWg40x3ocs26hJp-15" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="NW_pGQWg40x3ocs26hJp-14">
+        <mxCell id="NW_pGQWg40x3ocs26hJp-58" edge="1" parent="1" source="NW_pGQWg40x3ocs26hJp-15" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="NW_pGQWg40x3ocs26hJp-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NW_pGQWg40x3ocs26hJp-59" connectable="0" parent="NW_pGQWg40x3ocs26hJp-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
@@ -139,7 +139,7 @@
         <mxCell id="NW_pGQWg40x3ocs26hJp-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="gerer les reclamations&amp;nbsp;" vertex="1">
           <mxGeometry height="70" width="140" x="700" y="1270" as="geometry" />
         </mxCell>
-        <mxCell id="NW_pGQWg40x3ocs26hJp-45" edge="1" parent="1" source="NW_pGQWg40x3ocs26hJp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NW_pGQWg40x3ocs26hJp-8">
+        <mxCell id="NW_pGQWg40x3ocs26hJp-45" edge="1" parent="1" source="NW_pGQWg40x3ocs26hJp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="NW_pGQWg40x3ocs26hJp-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NW_pGQWg40x3ocs26hJp-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="valider les paiements" vertex="1">
