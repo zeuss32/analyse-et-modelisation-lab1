@@ -43,29 +43,6 @@
         <mxCell id="NW_pGQWg40x3ocs26hJp-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="gerer le panier&amp;nbsp;" vertex="1">
           <mxGeometry height="70" width="140" x="910" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="NW_pGQWg40x3ocs26hJp-60" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;dashed=1;elbow=vertical;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="NW_pGQWg40x3ocs26hJp-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1350" y="425" />
-            </Array>
-            <mxPoint x="1009.497474683058" y="430.251262658471" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NW_pGQWg40x3ocs26hJp-66" connectable="0" parent="NW_pGQWg40x3ocs26hJp-60" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry relative="1" x="0.2105" y="-1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NW_pGQWg40x3ocs26hJp-62" edge="1" parent="1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;dashed=1;" target="NW_pGQWg40x3ocs26hJp-61">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="420" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NW_pGQWg40x3ocs26hJp-67" connectable="0" parent="NW_pGQWg40x3ocs26hJp-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry relative="1" x="0.5282" y="-1" as="geometry">
-            <mxPoint x="-29" y="46" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NW_pGQWg40x3ocs26hJp-41" edge="1" parent="1" source="NW_pGQWg40x3ocs26hJp-15" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#a20025;strokeColor=#6F0000;" target="NW_pGQWg40x3ocs26hJp-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -128,11 +105,10 @@
         <mxCell id="NW_pGQWg40x3ocs26hJp-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="gerer les reclamations&amp;nbsp;" vertex="1">
           <mxGeometry height="70" width="140" x="700" y="1270" as="geometry" />
         </mxCell>
-        <mxCell id="NW_pGQWg40x3ocs26hJp-45" edge="1" parent="1" source="NW_pGQWg40x3ocs26hJp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="NW_pGQWg40x3ocs26hJp-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NW_pGQWg40x3ocs26hJp-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="valider les paiements" vertex="1">
-          <mxGeometry height="70" width="140" x="1460" y="420" as="geometry" />
+        <mxCell id="NW_pGQWg40x3ocs26hJp-45" edge="1" parent="1" source="NW_pGQWg40x3ocs26hJp-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="NW_pGQWg40x3ocs26hJp-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="455" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NW_pGQWg40x3ocs26hJp-36" edge="1" parent="1" source="NW_pGQWg40x3ocs26hJp-2" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.028;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#008a00;strokeColor=#005700;endArrow=none;endFill=0;" target="NW_pGQWg40x3ocs26hJp-11">
           <mxGeometry relative="1" as="geometry" />
@@ -178,9 +154,6 @@
           <mxGeometry relative="1" x="0.0873" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="NW_pGQWg40x3ocs26hJp-61" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Editer et envoyer Facture" vertex="1">
-          <mxGeometry height="70" width="140" x="1100" y="310" as="geometry" />
         </mxCell>
         <mxCell id="NW_pGQWg40x3ocs26hJp-63" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Contacter le client" vertex="1">
           <mxGeometry height="70" width="140" x="930" y="1180" as="geometry" />
