@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="kNBu60QWVTA-MQpfpCuT">
-    <mxGraphModel dx="1288" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="930" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,16 +10,16 @@
         <mxCell id="NW_pGQWg40x3ocs26hJp-31" edge="1" parent="1" source="NW_pGQWg40x3ocs26hJp-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#008a00;strokeColor=#005700;edgeStyle=entityRelationEdgeStyle;" target="NW_pGQWg40x3ocs26hJp-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NW_pGQWg40x3ocs26hJp-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Visiteur" vertex="1">
+        <mxCell id="NW_pGQWg40x3ocs26hJp-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#008a00;fontColor=light-dark(#000000,#003300);strokeColor=#005700;" value="Visiteur" vertex="1">
           <mxGeometry height="60" width="30" x="320" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="NW_pGQWg40x3ocs26hJp-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Client" vertex="1">
+        <mxCell id="NW_pGQWg40x3ocs26hJp-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e51400;fontColor=light-dark(#000000,#003300);strokeColor=#B20000;labelBackgroundColor=default;" value="Client" vertex="1">
           <mxGeometry height="60" width="30" x="310" y="550" as="geometry" />
         </mxCell>
         <mxCell id="NW_pGQWg40x3ocs26hJp-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Fournisseur&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="30" x="310" y="825" as="geometry" />
         </mxCell>
-        <mxCell id="NW_pGQWg40x3ocs26hJp-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Administrateur" vertex="1">
+        <mxCell id="NW_pGQWg40x3ocs26hJp-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#6a00ff;fontColor=light-dark(#000000,#003300);strokeColor=#3700CC;" value="Administrateur" vertex="1">
           <mxGeometry height="60" width="30" x="330" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="NW_pGQWg40x3ocs26hJp-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Stripe" vertex="1">
@@ -139,9 +139,9 @@
         <mxCell id="NW_pGQWg40x3ocs26hJp-52" edge="1" parent="1" source="NW_pGQWg40x3ocs26hJp-10" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="NW_pGQWg40x3ocs26hJp-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NW_pGQWg40x3ocs26hJp-53" edge="1" parent="1" source="NW_pGQWg40x3ocs26hJp-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" target="NW_pGQWg40x3ocs26hJp-2">
+        <mxCell id="NW_pGQWg40x3ocs26hJp-53" edge="1" parent="1" source="NW_pGQWg40x3ocs26hJp-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335" y="430" as="targetPoint" />
+            <mxPoint x="330" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NW_pGQWg40x3ocs26hJp-54" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="Se Connecter&amp;nbsp;" vertex="1">
